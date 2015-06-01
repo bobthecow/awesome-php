@@ -105,7 +105,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
-* [Lumen](http://lumen.laravel.com/) - The stunningly fast micro-framework by Laravel.
+* [Lumen](http://lumen.laravel.com/) - A stunningly fast micro-framework by Laravel.
 
 ## Content Management Systems
 *Modern content management systems.*
@@ -137,6 +137,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+* [HttpClient](https://github.com/leaps/httpclient/) - A HTTP client.
 
 ## URL
 *Libraries for parsing URLs.*
