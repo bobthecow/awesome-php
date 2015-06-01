@@ -77,7 +77,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 4](http://laravel.com/) - A simple PHP framework.
+* [Laravel](http://laravel.com/) - A simple PHP framework.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
@@ -105,6 +105,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
+* [Lumen](http://lumen.laravel.com/) - The stunningly fast micro-framework by Laravel.
 
 ## Content Management Systems
 *Modern content management systems.*
